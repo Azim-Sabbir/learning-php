@@ -1,0 +1,12 @@
+{
+    "name": "sabbir/advance-php-task",
+    "description": "for testing",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+    },
+    "require": {}
+}
